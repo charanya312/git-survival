@@ -1,0 +1,1 @@
+I have created a github repo named git-survival and pushed separately all the assignments
